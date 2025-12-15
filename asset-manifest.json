@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5886afc5.css",
+    "main.js": "/static/js/main.eee404cd.js",
+    "static/js/453.32bc6663.chunk.js": "/static/js/453.32bc6663.chunk.js",
+    "static/media/Muhammed_Fazal.jpg": "/static/media/Muhammed_Fazal.75780855aae23e9efd3a.jpg",
+    "index.html": "/index.html",
+    "main.5886afc5.css.map": "/static/css/main.5886afc5.css.map",
+    "main.eee404cd.js.map": "/static/js/main.eee404cd.js.map",
+    "453.32bc6663.chunk.js.map": "/static/js/453.32bc6663.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5886afc5.css",
+    "static/js/main.eee404cd.js"
+  ]
+}
